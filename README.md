@@ -222,7 +222,7 @@ Execution Steps:
 
 1. Clone the repository:
 
-git clone https://github.com/[your-username]/SIC-25-26-TEAM462.git
+git clone https://github.com/prabh9050/SIC-25-26-TEAM462.git
 cd SIC-25-26-TEAM462
 
 
