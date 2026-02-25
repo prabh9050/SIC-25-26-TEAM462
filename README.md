@@ -310,7 +310,7 @@ Acknowledgments
 
 Dataset Source: Johns Hopkins University CSSE COVID-19 Data Repository
 Institution: Samsung Innovation Campus
-Course: AI & Big Data Analytics
+Course: Big Data Analytics
 
 ---
 
@@ -318,7 +318,7 @@ Contact
 
 Team Leader: Prince Bhatia
 Team ID: SIC-25-26-TEAM462
-Course: Samsung Innovation Campus - AI Course
+Course: Samsung Innovation Campus - Big Data Course
 
 ---
 
